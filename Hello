@@ -1,0 +1,10 @@
+#include <iostream> //Input, output, stream
+//using std::cout;
+//using std::cout;
+//using namespace std;
+
+int main()
+{
+	std::cout << "¡Hola, mundo!. Me llamo Rafa." << std::endl;
+	return 0;
+};
